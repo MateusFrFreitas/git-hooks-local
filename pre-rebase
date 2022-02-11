@@ -1,0 +1,3 @@
+#!/bin/sh
+echo Rebase disabled
+exit 1
